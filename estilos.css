@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Vidaloka&display=swap');
+
+h1 {
+    color: #87CEFA; /* Light blue color */
+	font-family: "Vidaloka", serif;
+	font-weight: 550;
+	font-size: 80px;
+	font-style: normal;
+    text-align: center; /* Center-align the text */
+	margin-top: 20px; /* Add some space at the top */
+}
